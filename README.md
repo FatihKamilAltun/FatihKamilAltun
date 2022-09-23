@@ -13,9 +13,11 @@ I like to keep myself updated and follow the developments.</p>
 
 
 <h3>Fun stuff about me 😊</h3> 
-🌱 I like traveling and nature. 
+🌱 :earth_americas: I like traveling and nature. 
 <br>
-💻 Most of my time is spent coding. 
+💻 :notes: Most of my time is spent coding and listening music. 
+<br>
+
 
 <br>
 <h3>Tech I Use:</h3> 
