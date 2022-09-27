@@ -62,7 +62,7 @@ I like to keep myself updated and follow the developments.</p>
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-[linkedin]:https://www.linkedin.com/in/fatih-kamil-altun-69b733242/
+[linkedin]:https://www.linkedin.com/in/qa-fatihkamilaltun/
 [twitter]:https://twitter.com/fkaltunn
 [github]:https://github.com/FatihKamilAltun
 [gmail]: mailto:fkaltun70@gmail.com
