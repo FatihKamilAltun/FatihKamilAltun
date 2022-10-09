@@ -5,7 +5,7 @@
 
 <img height= "250" width="250" src=https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif align=right>
 
-<h3>About me ⚡ </h3> 
+<h3>About me⚡ </h3> 
 <p>My projects are updated as long as I am at the computer.
 Some of the projects I have created may seem simple,
 but they have contributed greatly to my development.<br>
