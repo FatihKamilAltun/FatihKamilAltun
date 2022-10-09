@@ -20,7 +20,7 @@ I like to keep myself updated and follow the developments.</p>
 
 
 <br>
-<h3>Tech I Use:</h3> 
+<h3> Tech I Use:</h3> 
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
 [<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
