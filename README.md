@@ -8,7 +8,8 @@
 <h3>About me⚡ </h3> 
 <p>My projects are updated as long as I am at the computer.
 Some of the projects I have created may seem simple,
-but they have contributed greatly to my development.<br>
+but they have contributed greatly to my development.
+<br>
 I like to keep myself updated and follow the developments.</p>
 
 
