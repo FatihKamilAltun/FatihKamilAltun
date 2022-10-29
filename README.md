@@ -1,7 +1,7 @@
  
 <h1 align=left style="color:aqua" >Hi  👋 its Kamil over here!</h1>
 
-<h2>I'm Test Automation Engineer</h2>  
+<h2>I'm Software Test Specialist</h2>  
 
 <img height= "250" width="250" src=https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif align=right>
 
