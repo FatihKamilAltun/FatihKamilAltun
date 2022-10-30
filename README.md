@@ -42,14 +42,16 @@ I like to keep myself updated and follow the developments.</p>
 [html]: https://www.w3schools.com/html/
 [github]: https://github.com/FatihKamilAltun
 [cucumber]: https://cucumber.io/
+[intellij]: https://www.jetbrains.com/idea/download/#section=windows
 
 
 <h3> Tools I Use:</h3> 
 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>][intellij]
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=FatihKamilAltun&theme=merko">
