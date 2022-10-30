@@ -58,7 +58,8 @@ I like to keep myself updated and follow the developments.</p>
 
 <a href="https://www.linkedin.com/in/fatih-kamil-altun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-kamil-altun" height="30" width="40" /></a>
 <a href="mailto:fkaltun70@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="Fatih Kamil Altun" height="50" width="50" /></a>
-<a href="https://instagram.com/fkaltunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkaltunn/" height="30" width="40" /></a> 
+<a href="https://instagram.com/fkaltunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkaltunn/" height="30" width="40" /></a>
+<a href="https://twitter.com/fkaltunn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" align="center"  height="30" width="35" /></a>
 <a href="https://app.patika.dev/fatihkamil" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="30" width="40" /></a>
 
 
