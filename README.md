@@ -64,6 +64,7 @@ I like to keep myself updated and follow the developments.</p>
 <a href="mailto:fkaltun70@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="Fatih Kamil Altun" height="50" width="50" /></a>
 <a href="https://instagram.com/fkaltunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkaltunn/" height="40" width="40" /></a>
 <a href="https://twitter.com/fkaltunn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" align="center"  height="40" width="40" /></a>
+<a href="https://discord.com/channels/1013731580742750269" target="_blank" rel=”noopener”> <img align ="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="45" height="45"/> </a>
 <a href="https://app.patika.dev/fatihkamil" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="40" width="40" /></a>
 
 
